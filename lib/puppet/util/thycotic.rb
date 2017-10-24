@@ -2,6 +2,7 @@ require 'savon'
 require 'base64'
 require 'excon'
 
+
 module Puppet::Util::Thycotic
   class SecretServer
     attr_reader :error, :result, :templates, :folders
