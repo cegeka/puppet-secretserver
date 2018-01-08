@@ -32,3 +32,4 @@ If multiple secrets are found for the given search criteria, a Puppet Error will
 * Ability to also return the hashed password
 * Generating a password
 
+
